@@ -10,11 +10,11 @@ function processGrade(grade){
     console.log("There is no grade like that");
   }
   
-  else if (grade == "INC" || 'inc'){
+  else if (grade == "INC"){
     console.log("your grade is incomplete");
   }  
   
-   else if (grade == "DROP" || "drop"){
+   else if (grade == "DROP"){
     console.log("you have drop the subject");
   }  
   
